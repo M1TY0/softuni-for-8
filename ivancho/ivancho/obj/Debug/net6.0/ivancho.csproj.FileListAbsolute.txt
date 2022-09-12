@@ -1,0 +1,15 @@
+E:\programirane\calculator\ivancho\ivancho\bin\Debug\net6.0\ivancho.exe
+E:\programirane\calculator\ivancho\ivancho\bin\Debug\net6.0\ivancho.deps.json
+E:\programirane\calculator\ivancho\ivancho\bin\Debug\net6.0\ivancho.runtimeconfig.json
+E:\programirane\calculator\ivancho\ivancho\bin\Debug\net6.0\ivancho.dll
+E:\programirane\calculator\ivancho\ivancho\bin\Debug\net6.0\ivancho.pdb
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.csproj.AssemblyReference.cache
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.GeneratedMSBuildEditorConfig.editorconfig
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.AssemblyInfoInputs.cache
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.AssemblyInfo.cs
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.csproj.CoreCompileInputs.cache
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.dll
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\refint\ivancho.dll
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.pdb
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ivancho.genruntimeconfig.cache
+E:\programirane\calculator\ivancho\ivancho\obj\Debug\net6.0\ref\ivancho.dll
